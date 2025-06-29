@@ -158,3 +158,31 @@ To conduct effective Requirement Analysis, consider the following best practices
 
 - **Establish a Change Management Process**  
   Implement a formal process for managing changes to requirements, including how changes are proposed, evaluated, and approved.
+
+---
+
+## 🖼️ Use Case Diagrams
+
+Use Case Diagrams are a type of Unified Modeling Language (UML) diagram that visually represent the interactions between users (actors) and a system. They help identify the main functionalities (use cases) the system must support and clarify how different users interact with those functionalities.
+
+**Benefits of Use Case Diagrams:**
+- Provide a clear overview of system functionality from a user’s perspective.
+- Help identify system boundaries, actors, and their interactions.
+- Facilitate communication between stakeholders, developers, and testers.
+- Serve as a foundation for writing detailed use cases and requirements.
+
+**Use Case Diagram for the Booking Management System:**
+
+Actors:
+- User
+- Administrator
+
+Use Cases:
+- Create Booking
+- View Booking
+- Modify Booking
+- Cancel Booking
+- Search Available Rooms
+- Receive Booking Confirmation
+- Manage User Accounts (Admin)
+- Manage Booking Records
