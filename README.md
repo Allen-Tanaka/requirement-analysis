@@ -186,3 +186,24 @@ Use Cases:
 - Receive Booking Confirmation
 - Manage User Accounts (Admin)
 - Manage Booking Records
+
+---
+
+## ✅ Acceptance Criteria
+
+Acceptance Criteria are specific, measurable conditions that a software product or feature must satisfy to be accepted by stakeholders. They play a crucial role in Requirement Analysis by providing a clear definition of "done" for each requirement or user story. Well-defined acceptance criteria help ensure that all stakeholders have a shared understanding of what is expected, reduce ambiguity, and serve as the basis for testing and validation.
+
+**Importance of Acceptance Criteria:**
+- Ensure requirements are testable and verifiable.
+- Align development and stakeholder expectations.
+- Reduce misunderstandings and rework.
+- Provide a basis for user acceptance testing (UAT).
+
+**Example: Acceptance Criteria for the Checkout Feature in the Booking Management System**
+
+- The user must be able to review booking details before confirming checkout.
+- The system must display the total price, including taxes and fees.
+- The user must be able to enter and validate payment information securely.
+- The system must process the payment and display a confirmation message upon successful checkout.
+- A booking confirmation email must be sent to the user within 1 minute of successful checkout.
+- If payment fails, the user must receive an appropriate error message and be able to re-enter payment information.
