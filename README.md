@@ -76,3 +76,85 @@ The Requirement Analysis process involves several key activities that ensure the
 
 - **Requirement Validation**  
   Reviewing and confirming requirements with stakeholders to ensure accuracy, completeness, and alignment with business objectives before moving to design and development.
+
+---
+
+## 🗂️ Types of Requirements
+
+Requirement Analysis distinguishes between two main types of requirements: Functional and Non-functional. Both are essential for building a robust and effective booking management system.
+
+### 🔹 Functional Requirements
+
+Functional requirements define what the system should do—its features, behaviors, and functions. They describe the interactions between the system and its users or other systems.
+
+**Examples for a Booking Management System:**
+- Users can create, view, modify, and cancel bookings.
+- The system sends booking confirmation emails to users.
+- Administrators can manage user accounts and booking records.
+- The system checks room availability before confirming a booking.
+- Users can search for available rooms based on date and preferences.
+
+### 🔸 Non-functional Requirements
+
+Non-functional requirements specify how the system performs its functions. They address quality attributes such as performance, security, usability, and reliability.
+
+**Examples for a Booking Management System:**
+- The system must handle up to 1,000 concurrent users without performance degradation.
+- Booking confirmation emails should be sent within 1 minute of booking completion.
+- User data must be encrypted both in transit and at rest.
+- The system should be available 99.9% of the time (high availability).
+- The user interface should be accessible and responsive on both desktop and mobile devices.
+
+---
+
+## 📊 Requirement Analysis Process
+
+The Requirement Analysis process is systematic and iterative, typically involving the following steps:
+
+1. **Initiation and Planning**  
+   Define the scope, objectives, and stakeholders of the Requirement Analysis phase. Develop a plan for how requirements will be gathered, documented, and managed.
+
+2. **Requirement Gathering**  
+   Collect initial requirements through stakeholder interviews, surveys, document reviews, and observation of current systems or processes.
+
+3. **Requirement Elicitation**  
+   Engage stakeholders in workshops, focus groups, or one-on-one sessions to elicit detailed requirements and clarify any ambiguities.
+
+4. **Requirement Documentation**  
+   Document the gathered requirements in a structured format, such as a Software Requirements Specification (SRS) or user stories in a product backlog.
+
+5. **Requirement Analysis and Modeling**  
+   Analyze the documented requirements to identify conflicts, redundancies, or gaps. Create models or diagrams to visualize and validate requirements.
+
+6. **Requirement Validation**  
+   Review the documented requirements with stakeholders to ensure they accurately represent their needs and expectations. Obtain formal approval of the requirements.
+
+7. **Requirements Management and Control**  
+   Establish a process for managing changes to the requirements throughout the SDLC. This includes version control, change tracking, and impact analysis.
+
+8. **Communication and Collaboration**  
+   Maintain ongoing communication and collaboration with stakeholders to ensure their needs are continuously met and to address any emerging requirements or changes.
+
+---
+
+## 📝 Best Practices for Requirement Analysis
+
+To conduct effective Requirement Analysis, consider the following best practices:
+
+- **Involve Stakeholders Early and Often**  
+  Engage stakeholders from the outset and throughout the Requirement Analysis process to ensure their needs and expectations are accurately captured and managed.
+
+- **Use Clear and Concise Language**  
+  Document requirements using clear, concise, and unambiguous language to prevent misinterpretation and ensure a common understanding among all stakeholders.
+
+- **Prioritize Requirements**  
+  Work with stakeholders to prioritize requirements based on business value, urgency, and feasibility. This helps focus efforts on the most critical requirements first.
+
+- **Leverage Visual Aids**  
+  Use diagrams, models, and other visual aids to complement textual requirements. Visual representations can help clarify complex requirements and improve understanding.
+
+- **Validate Requirements Regularly**  
+  Conduct regular reviews and validations of requirements with stakeholders to ensure they remain accurate, complete, and aligned with business objectives.
+
+- **Establish a Change Management Process**  
+  Implement a formal process for managing changes to requirements, including how changes are proposed, evaluated, and approved.
