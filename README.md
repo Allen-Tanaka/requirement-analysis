@@ -55,3 +55,24 @@ Requirement Analysis is a cornerstone of successful software development. Its im
    Early identification of ambiguities, conflicts, or missing requirements helps teams address potential risks proactively, minimizing the likelihood of project failure.
 
 Requirement Analysis is thus essential for delivering high-quality, reliable, and user-focused software solutions.
+
+---
+
+## 🛠️ Key Activities in Requirement Analysis
+
+The Requirement Analysis process involves several key activities that ensure the development of effective and reliable software systems:
+
+- **Requirement Gathering**  
+  Collecting information from stakeholders, users, and relevant documents to understand their needs, expectations, and constraints for the system.
+
+- **Requirement Elicitation**  
+  Engaging stakeholders through interviews, surveys, workshops, and observation to uncover detailed requirements and clarify their true needs.
+
+- **Requirement Documentation**  
+  Recording and organizing requirements in a clear, structured format (such as requirement specifications or user stories) to ensure they are accessible and understandable to all stakeholders.
+
+- **Requirement Analysis and Modeling**  
+  Examining, refining, and prioritizing requirements to resolve ambiguities and detect conflicts. This may include creating models or diagrams (e.g., use case diagrams, data flow diagrams) to visualize system behavior and interactions.
+
+- **Requirement Validation**  
+  Reviewing and confirming requirements with stakeholders to ensure accuracy, completeness, and alignment with business objectives before moving to design and development.
